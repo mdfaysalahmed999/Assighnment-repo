@@ -1,0 +1,43 @@
+
+h1{
+    font-size: 50px;
+    margin-left: 100px;
+    padding: 10px;
+
+}
+style{
+    height: 500px;
+}
+p{
+    margin-left: 100px;
+}
+button{ 
+    margin-left: 100px;
+}
+.Orange-color{
+    color: orange;
+
+}
+section{
+    display: flex;
+}
+.button {
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+  }
+  .next{
+      margin-left: 280px;
+  }
+  .gap{
+      margin-left: 100px;
+  }
+  #space{
+      margin-left: 50px;
+  }
